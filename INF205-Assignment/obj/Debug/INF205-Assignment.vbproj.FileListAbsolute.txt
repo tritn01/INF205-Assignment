@@ -1,0 +1,45 @@
+C:\Users\Administrator\Desktop\Working Space\INF205_Dien toan dam may\Assignment\INF205-Assignment\INF205-Assignment\INF205-Assignment\bin\Debug\INF205-Assignment.exe.config
+C:\Users\Administrator\Desktop\Working Space\INF205_Dien toan dam may\Assignment\INF205-Assignment\INF205-Assignment\INF205-Assignment\bin\Debug\INF205-Assignment.exe
+C:\Users\Administrator\Desktop\Working Space\INF205_Dien toan dam may\Assignment\INF205-Assignment\INF205-Assignment\INF205-Assignment\bin\Debug\INF205-Assignment.pdb
+C:\Users\Administrator\Desktop\Working Space\INF205_Dien toan dam may\Assignment\INF205-Assignment\INF205-Assignment\INF205-Assignment\bin\Debug\INF205-Assignment.xml
+C:\Users\Administrator\Desktop\Working Space\INF205_Dien toan dam may\Assignment\INF205-Assignment\INF205-Assignment\INF205-Assignment\obj\Debug\INF205_Assignment.frmLogin.resources
+C:\Users\Administrator\Desktop\Working Space\INF205_Dien toan dam may\Assignment\INF205-Assignment\INF205-Assignment\INF205-Assignment\obj\Debug\INF205_Assignment.Resources.resources
+C:\Users\Administrator\Desktop\Working Space\INF205_Dien toan dam may\Assignment\INF205-Assignment\INF205-Assignment\INF205-Assignment\obj\Debug\INF205-Assignment.vbproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Working Space\INF205_Dien toan dam may\Assignment\INF205-Assignment\INF205-Assignment\INF205-Assignment\obj\Debug\INF205-Assignment.exe
+C:\Users\Administrator\Desktop\Working Space\INF205_Dien toan dam may\Assignment\INF205-Assignment\INF205-Assignment\INF205-Assignment\obj\Debug\INF205-Assignment.xml
+C:\Users\Administrator\Desktop\Working Space\INF205_Dien toan dam may\Assignment\INF205-Assignment\INF205-Assignment\INF205-Assignment\obj\Debug\INF205-Assignment.pdb
+C:\Users\Administrator\Desktop\Working Space\INF205_Dien toan dam may\Assignment\INF205-Assignment\INF205-Assignment\INF205-Assignment\obj\Debug\INF205_Assignment.frmMain.resources
+C:\Users\Administrator\Desktop\Working Space\INF205_Dien toan dam may\Assignment\INF205-Assignment\INF205-Assignment\INF205-Assignment\obj\Debug\INF205_Assignment.frmSanpham.resources
+C:\Users\Administrator\Desktop\Working Space\INF205_Dien toan dam may\Assignment\INF205-Assignment\INF205-Assignment\INF205-Assignment\obj\Debug\INF205-Assignment.vbprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Working Space\INF205_Dien toan dam may\Assignment\INF205-Assignment\INF205-Assignment\INF205-Assignment\obj\Debug\INF205_Assignment.frmKhachHang.resources
+C:\Users\Administrator\Desktop\Working Space\INF205_Dien toan dam may\Assignment\INF205-Assignment\INF205-Assignment\INF205-Assignment\obj\Debug\INF205_Assignment.frmDoiPass.resources
+C:\Users\Administrator\Desktop\INF205-Assignment\INF205-Assignment\INF205-Assignment\bin\Debug\INF205-Assignment.exe.config
+C:\Users\Administrator\Desktop\INF205-Assignment\INF205-Assignment\INF205-Assignment\obj\Debug\INF205-Assignment.exe
+C:\Users\Administrator\Desktop\INF205-Assignment\INF205-Assignment\INF205-Assignment\obj\Debug\INF205-Assignment.xml
+C:\Users\Administrator\Desktop\INF205-Assignment\INF205-Assignment\INF205-Assignment\obj\Debug\INF205-Assignment.pdb
+C:\Users\Administrator\Desktop\INF205-Assignment\INF205-Assignment\INF205-Assignment\bin\Debug\INF205-Assignment.exe
+C:\Users\Administrator\Desktop\INF205-Assignment\INF205-Assignment\INF205-Assignment\bin\Debug\INF205-Assignment.pdb
+C:\Users\Administrator\Desktop\INF205-Assignment\INF205-Assignment\INF205-Assignment\bin\Debug\INF205-Assignment.xml
+C:\Users\Administrator\Desktop\INF205-Assignment\INF205-Assignment\INF205-Assignment\obj\Debug\INF205-Assignment.vbprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\INF205-Assignment\INF205-Assignment\INF205-Assignment\obj\Debug\INF205_Assignment.frmDoiPass.resources
+C:\Users\Administrator\Desktop\INF205-Assignment\INF205-Assignment\INF205-Assignment\obj\Debug\INF205_Assignment.frmKhachHang.resources
+C:\Users\Administrator\Desktop\INF205-Assignment\INF205-Assignment\INF205-Assignment\obj\Debug\INF205_Assignment.frmLogin.resources
+C:\Users\Administrator\Desktop\INF205-Assignment\INF205-Assignment\INF205-Assignment\obj\Debug\INF205_Assignment.frmMain.resources
+C:\Users\Administrator\Desktop\INF205-Assignment\INF205-Assignment\INF205-Assignment\obj\Debug\INF205_Assignment.frmSanPham.resources
+C:\Users\Administrator\Desktop\INF205-Assignment\INF205-Assignment\INF205-Assignment\obj\Debug\INF205_Assignment.Resources.resources
+C:\Users\Administrator\Desktop\INF205-Assignment\INF205-Assignment\INF205-Assignment\obj\Debug\INF205-Assignment.vbproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Tritnps02687_AssignmentGD2\INF205-Assignment\INF205-Assignment\bin\Debug\INF205-Assignment.exe.config
+C:\Users\Administrator\Desktop\Tritnps02687_AssignmentGD2\INF205-Assignment\INF205-Assignment\obj\Debug\INF205-Assignment.exe
+C:\Users\Administrator\Desktop\Tritnps02687_AssignmentGD2\INF205-Assignment\INF205-Assignment\obj\Debug\INF205-Assignment.xml
+C:\Users\Administrator\Desktop\Tritnps02687_AssignmentGD2\INF205-Assignment\INF205-Assignment\obj\Debug\INF205-Assignment.pdb
+C:\Users\Administrator\Desktop\Tritnps02687_AssignmentGD2\INF205-Assignment\INF205-Assignment\bin\Debug\INF205-Assignment.exe
+C:\Users\Administrator\Desktop\Tritnps02687_AssignmentGD2\INF205-Assignment\INF205-Assignment\bin\Debug\INF205-Assignment.pdb
+C:\Users\Administrator\Desktop\Tritnps02687_AssignmentGD2\INF205-Assignment\INF205-Assignment\bin\Debug\INF205-Assignment.xml
+C:\Users\Administrator\Desktop\Tritnps02687_AssignmentGD2\INF205-Assignment\INF205-Assignment\obj\Debug\INF205-Assignment.vbprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Tritnps02687_AssignmentGD2\INF205-Assignment\INF205-Assignment\obj\Debug\INF205_Assignment.frmDoiPass.resources
+C:\Users\Administrator\Desktop\Tritnps02687_AssignmentGD2\INF205-Assignment\INF205-Assignment\obj\Debug\INF205_Assignment.frmKhachHang.resources
+C:\Users\Administrator\Desktop\Tritnps02687_AssignmentGD2\INF205-Assignment\INF205-Assignment\obj\Debug\INF205_Assignment.frmLogin.resources
+C:\Users\Administrator\Desktop\Tritnps02687_AssignmentGD2\INF205-Assignment\INF205-Assignment\obj\Debug\INF205_Assignment.frmMain.resources
+C:\Users\Administrator\Desktop\Tritnps02687_AssignmentGD2\INF205-Assignment\INF205-Assignment\obj\Debug\INF205_Assignment.frmSanPham.resources
+C:\Users\Administrator\Desktop\Tritnps02687_AssignmentGD2\INF205-Assignment\INF205-Assignment\obj\Debug\INF205_Assignment.Resources.resources
+C:\Users\Administrator\Desktop\Tritnps02687_AssignmentGD2\INF205-Assignment\INF205-Assignment\obj\Debug\INF205-Assignment.vbproj.GenerateResource.Cache
